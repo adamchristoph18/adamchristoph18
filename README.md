@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Hello world! I'm a full-stack engineer with a passion for all things programming, computers, technology, and their effect on people's lives. My favorite part of coding is the problem-solving and getting to work with other developers on a consistent basis. 
+
+Main competencies: JavaScript, Python, React.js, Redux, SQL, Express, Flask, HTML, CSS
+
+Before transitioning to tech, I spent many summers working a golf caddie, and held various past roles related to sales, advertising, and customer success. 
+
+When I'm not hunting down and solving bugs, I enjoy reading, hiking, playing golf, and talking to friends about future goals.
+
+Let's get in touch -------> adamchristoph18@gmail.com
+
 <!--
 **adamchristoph18/adamchristoph18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
